@@ -1,55 +1,22 @@
-<p align="center">
-  <img src="banner.png" alt="Abdullah Al Abid - Frontend Developer" width="100%" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Abdullah Al Abid</h1>
-
+<h1 align="center">Hi 👋, I'm Abdullah al Abid</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<br />
+- 🌱 I’m currently learning **Node.Js**
 
-- 🌱 I’m currently learning **Node.js**
-- 💬 Ask me about **React, Next.js**
-- 📫 How to reach me: [nageebomar2007@gmail.com](mailto:nageebomar2007@gmail.com)
+- 💬 Ask me about **react,next.js**
 
-<br />
+- 📫 How to reach me **nageebomar2007@gmail.com**
 
-## 🌐 Connect with me:
-
-<a href="https://facebook.com/YOUR-FACEBOOK-USERNAME" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="48" />
-</a>
-
-<br />
-
-## 🛠️ Languages and Tools:
-
-**Languages:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/nageeb omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nageeb omar" height="30" width="40" /></a>
 </p>
 
-**Frontend Frameworks & Libraries:**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,tailwind" alt="Frontend" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahalabid-webdeveloper&show_icons=true&locale=en&layout=compact" alt="abdullahalabid-webdeveloper" /></p>
 
-**Backend & Database:**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahalabid-webdeveloper&show_icons=true&locale=en" alt="abdullahalabid-webdeveloper" /></p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and Database" />
-</p>
-
-<br />
-
-## 📊 GitHub Statistics:
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahAlAbid-WebDeveloper&theme=default&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahAlAbid-WebDeveloper&show_icons=true&theme=default" alt="GitHub Stats" height="170" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalabid-webdeveloper&" alt="abdullahalabid-webdeveloper" /></p>
